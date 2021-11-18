@@ -1,10 +1,7 @@
-Welcome to Lumache's documentation!
+Welcome to panel-est documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**Panel-est** is a Python library that provides interface for panel data methods. It includes pre-processing, estimation, evaluation and visualization functionality. 
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
